@@ -11,8 +11,5 @@ Repl: [![Run on Repl.it](https://repl.it/badge/github/HELLMAKER0001/Alt-Detector
 
 ## ✨ Contributors
 Contributions are always welcomed :D
-<a href="https://github.com/HELLMAKER0001/Alt-Detector/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=HELLMAKER0001/Alt-Detector" />
-</a>
-
+ MADE BY: interface#2797
 Made with :heart: and JavaScript!
